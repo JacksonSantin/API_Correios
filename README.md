@@ -59,6 +59,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jackson-dhanyel-santin/)](https://www.linkedin.com/in/jackson-dhanyel-santin/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DhanyelJack)](https://twitter.com/DhanyelJack)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c71610?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jackdhanyelsn@gmail.com)](mailto:jackdhanyelsn@gmail.com)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJacksonSantin%2FAPI_Correios.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FJacksonSantin%2FAPI_Correios?ref=badge_shield)
 
 ---
 
@@ -68,3 +69,7 @@ Feito com ❤️ por Jackson Dhanyel Santin 👋🏽 [Entre em contato!](https:/
 Consulte informações sobre a licença do projeto [MIT](https://github.com/JacksonSantin/proffy/blob/master/LICENSE).
 
 ---
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJacksonSantin%2FAPI_Correios.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FJacksonSantin%2FAPI_Correios?ref=badge_large)
